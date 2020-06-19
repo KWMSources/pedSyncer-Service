@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "SN2Rq8Xg5azQs1OEUa9CDdJP8T6IeWeBqvbrziOEVo4SbVejN+TLUlW/C0NbSh5yiUrhQ0/wyrssYet6Lw3Vwg==",
+  "success": true,
+  "projectFilePath": "F:\\Projekte\\navMesh-Graph-WebAPI\\navMesh-Graph-WebAPI\\navMesh-Graph-WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kay Wilhelm Mähler\\.nuget\\packages\\messagepack\\2.1.115\\messagepack.2.1.115.nupkg.sha512",
+    "C:\\Users\\Kay Wilhelm Mähler\\.nuget\\packages\\messagepack.annotations\\2.1.115\\messagepack.annotations.2.1.115.nupkg.sha512",
+    "C:\\Users\\Kay Wilhelm Mähler\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\Kay Wilhelm Mähler\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Kay Wilhelm Mähler\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Kay Wilhelm Mähler\\.nuget\\packages\\system.reflection.emit\\4.6.0\\system.reflection.emit.4.6.0.nupkg.sha512",
+    "C:\\Users\\Kay Wilhelm Mähler\\.nuget\\packages\\system.reflection.emit.lightweight\\4.6.0\\system.reflection.emit.lightweight.4.6.0.nupkg.sha512",
+    "C:\\Users\\Kay Wilhelm Mähler\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Kay Wilhelm Mähler\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
