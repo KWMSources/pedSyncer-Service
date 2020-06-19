@@ -6,7 +6,7 @@ The pedSyncer needs an external service because the amount of navMeshes to manag
 
 # Requirements
 
-- A environment to run c#
+- An environment to run c#
 - Packages: MessagePack/2.1.115, Newtonsoft.JSON/12.0.3
 
 # Installation
