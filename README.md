@@ -19,3 +19,7 @@ The pedSyncer needs an external service because the amount of navMeshes to manag
 `https://localhost:5001/getSpawns` - gives back an JSON of random spawn positions and calculated routes
 
 `https://localhost:5001/getRoute/{endPosition.x}/{endPosition.y}/{endPosition.z}/{preEndPosition.x}/{preEndPosition.y}/{preEndPosition.z}` - gives back an JSON of a path by the given two positions (two position is important because of the direction of the current wandering)
+
+# Special Thanks
+
+Goes to Durty for his navMesh-Dump and navMesh-Framework. Visit https://github.com/DurtyFree/gta-v-data-dumps
