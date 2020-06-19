@@ -4,6 +4,8 @@ This is the Web-Service for the pedSyncer-ressource in altV. The mission of the 
 
 The pedSyncer needs an external service because the amount of navMeshes to manage is to big. The calculations of a path or of random spwans would be to much for NodeJS. The loading process of the `newNavigationMeshes.msgpack`-file would block the NodeJS event loop for a long time. Once loaded, the calculation of random paths and spawns is a task with a small load but the path calculation appears very, very often. For this reason, the load of the NodeJS increases with the number of peds. An external service which is contacted by NodeJS with REST-API as promises is the solution of this problem for now.
 
+The pedSyncer-repository can be found here: https://github.com/KWMSources/pedSyncer
+
 # Requirements
 
 - An environment to run c#
