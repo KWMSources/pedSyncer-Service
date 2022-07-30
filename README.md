@@ -1,3 +1,5 @@
+# Please mention: This project is no longer maintained. It will also not be maintained for money. No matter how much money you offer: I will not help you maintain this project. So please: Don't contact me. Thanks.
+
 # pedSyncer-Service
 
 This is the Web-Service for the pedSyncer-ressource in altV. The mission of the pedSyncer-service is to calculate random spawns and paths for the wandering of the peds. The base of the calculation are the navMeshes from GTA V. The file `newNavigationMeshes.msgpack` includes all footpath navMeshes from GTA 5. There are ~ 98,000 navMeshes, which are managed by the service.
